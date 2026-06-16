@@ -1,15 +1,21 @@
 Hi, I'm Daniel Park 👋
 
-Computer Science student at Rutgers University focused on full-stack development, backend engineering, and cloud infrastructure. I enjoy building scalable applications, designing efficient systems, and continuously learning new technologies.
+🎓 Computer Science student at Rutgers University
 
-Languages
+I'm a software developer with a passion for building modern web applications, scalable backend systems, and cloud-powered solutions. I enjoy taking ideas from concept to deployment and am constantly exploring new technologies, frameworks, and engineering practices.
+
+🌐 Portfolio
+
+placeholder
+
+💻 Languages
 
 JavaScript • TypeScript • Python • SQL • Java • C++ • HTML • CSS
 
-Technologies
+⚡ Technologies & Tools
 
-React • Next.js • Node.js • NestJS • Flask • PostgreSQL • MongoDB • Redis • Docker • AWS • Git
+React • Next.js • Node.js • NestJS • Flask • PostgreSQL • MongoDB • Redis • Docker • AWS • Git • GitHub Actions • Vercel
 
-Portfolio
+🚀 Areas of Interest
 
-🌐 your-portfolio-link.com
+Backend Engineering • Full-Stack Development • Cloud Infrastructure • System Design • API Development • Databases • Software Architecture
