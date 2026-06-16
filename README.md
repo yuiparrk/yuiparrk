@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Daniel Park 👋
 
-<!--
-**yuiparrk/yuiparrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Rutgers University focused on full-stack development, backend engineering, and cloud infrastructure. I enjoy building scalable applications, designing efficient systems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript • TypeScript • Python • SQL • Java • C++ • HTML • CSS
+
+Technologies
+
+React • Next.js • Node.js • NestJS • Flask • PostgreSQL • MongoDB • Redis • Docker • AWS • Git
+
+Portfolio
+
+🌐 your-portfolio-link.com
