@@ -14,7 +14,7 @@ JavaScript • TypeScript • Python • SQL • Java • C++ • HTML • CSS
 
 ⚡ Technologies & Tools
 
-React • Next.js • Node.js • NestJS • Flask • PostgreSQL • MongoDB • Redis • Docker • AWS • Git • GitHub Actions • Vercel
+React • Next.js • Node.js • NestJS • Flask • PostgreSQL • MongoDB • Redis • Docker • AWS • Git
 
 🚀 Areas of Interest
 
